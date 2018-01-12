@@ -1,1 +1,3 @@
-Inheritance, Collision Detection, GameManager in C#.# Unity-Collision-Detection
+# Unity-Collision-Detection
+
+Inheritance, Collision Detection, GameManager in C#.
